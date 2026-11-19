@@ -1,0 +1,10 @@
+{
+  "name": "Vela Épargne",
+  "description": "Application mobile d'épargne personnelle iOS Glass sombre avec suivi multi-devises ($ / CDF), objectifs, objets à atteindre, caisse, dettes, salaire et rapport PDF.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
